@@ -1,0 +1,190 @@
+#yellow-div{
+	float:left;
+	border:#ffea00 5px solid;
+	border-radius:15px;
+	width:325px;
+	height:300px;
+}
+
+#blue-div{
+	float:left;
+	border:blue 5px solid;
+	border-radius:15px;
+	width:325px;
+	height:300px;
+}
+
+#green-div{
+	float:left;
+	border:green 5px solid;
+	border-radius:15px;
+	width:650px;
+	height:150px;
+}
+
+#orange-div{
+	float:left;
+	border:orange 5px solid;
+	border-radius:15px;
+	width:650px;
+	height:100px;
+}
+
+#purple-div{
+	float:left;
+	border:purple 5px solid;
+	border-radius:15px;
+	width:650px;
+	height:100px;
+}
+
+#die-area{
+	position:relative;
+	float:left;
+	margin:25px;
+	width:650px;
+}
+
+#game-board-div{
+	position:relative;
+	float:left;
+}
+
+#score-div{
+	margin:25px;
+	width:650px;
+	display:none;
+}
+
+#yellow-row-1{
+	margin-top:10px;
+}
+
+.green-score-star{
+	position:relative;
+	float:left;
+	width:50px;
+	height:auto;
+}
+
+.blue-score-star{
+	position:relative;
+	float:left;
+}
+
+.blue-star{
+	width:28px;
+}
+
+.yellow-row{
+	height:55px;
+	margin-left:35px;
+}
+
+.yellow-box{
+	position:relative;
+	float:left;
+	color:black;
+	width:50px;
+	height:50px;
+	border:grey 2px solid;
+	border-radius:5px;
+	font-size:30px;
+	margin-right:10px;
+}
+
+.green-box{
+	position:relative;
+	float:left;
+	color:black;
+	width:50px;
+	height:50px;
+	border:grey 2px solid;
+	border-radius:5px;
+	font-size:30px;
+	margin-right:10px;
+}
+
+.green-row{
+	margin:10px;
+	height:50px;
+}
+
+.orange-box{
+	position:relative;
+	float:left;
+	color:black;
+	width:50px;
+	height:50px;
+	border:grey 2px solid;
+	border-radius:5px;
+	font-size:30px;
+	margin-right:10px;
+}
+
+.orange-row{
+	margin:10px;
+	height:50px;
+}
+
+.purple-row{
+	margin:10px;
+	height:50px;
+}
+
+.purple-box{
+	position:relative;
+	float:left;
+	color:black;
+	width:50px;
+	height:50px;
+	border:grey 2px solid;
+	border-radius:5px;
+	font-size:30px;
+	margin-right:10px;
+}
+
+.blue-row{
+	float:left;
+	margin:10px;
+	height:50px;
+	width:325px;
+}
+
+.blue-score-row{
+	float:left;
+	margin:10px;
+	height:20px;
+	width:325px;
+}
+
+.blue-box{
+	float:left;
+	color:black;
+	width:50px;
+	height:50px;
+	border:grey 2px solid;
+	border-radius:5px;
+	font-size:30px;
+	margin-right:10px;
+}
+
+.blue-num{
+	width:28px;
+	float:left;
+	font-size:10px;
+	color:blue;
+}
+
+.yellow-score{
+	color:#ffea00;
+}
+
+.center{
+	text-align:center;
+	margin:auto;
+}
+
+.die-div{
+	float:left;
+}
